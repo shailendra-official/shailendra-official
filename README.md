@@ -19,9 +19,10 @@ I graduated with the bachelor degree of art, now i joined Full-Stack Web Develop
    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
 </p></span>
   
-  # Portfolio 🔗https://sk-portfolio-sooty.vercel.app/
+  ## Portfolio 
+   🔗https://sk-portfolio-sooty.vercel.app/
 
-   # Projects 
+   ## Projects 
                                           
    ## Purpull.com clone 🔗https://purplle.vercel.app/
    ### It is beauty related E-commerce website i got this project uite-2 cunstruc week project .I work in this project with five other member
