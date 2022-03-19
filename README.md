@@ -20,7 +20,7 @@ I graduated with the bachelor degree of art, now i joined Full-Stack Web Develop
 </p></span>
   
   ## Portfolio 
-   🔗https://sk-portfolio-sooty.vercel.app/
+   🔗https://shailendraportfolio.vercel.app/
 
    ## Projects 
                                           
