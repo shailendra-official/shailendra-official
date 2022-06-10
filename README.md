@@ -24,7 +24,7 @@ I graduated with the bachelor degree of art, now i joined Full-Stack Web Develop
 
    ## Projects 
                                           
-   ## Purpull.com clone 🔗https://purplle.vercel.app/
+   ## Purpull.com clone 🔗https://purpullclone.netlify.app/
    ### It is beauty related E-commerce website i got this project uite-2 cunstruc week project .I work in this project with five other member
                        
    ###  My responsibility in this project to make header and footer for all pages and adding sorting and filter featurs
