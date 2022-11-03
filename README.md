@@ -15,14 +15,14 @@
 # Tech Stack
    <span>
   <img width="100px" height="100px"  src="https://res.cloudinary.com/computer-know-how/images/f_auto,q_auto/v1586880081/JavaScript-logo/JavaScript-logo.png?_i=AA" alt="JavaScript"/>
-  <img width="100px" height="100px" marginLeft="50px" src="https://mohitkss.github.io/static/media/html5.4e6edfe05f07c383e94f.png" alt="HTML5"/>
-  <img width="100px" height="100px" src="https://mohitkss.github.io/static/media/css3.845e8eb63836bef093cf.png" alt="CSS3"/>
-  <img width="100px" height="100px" src="https://mohitkss.github.io/static/media/nodejs.b508473ad71a31ce2fae.png" alt="NodeJS"/>
-  <img width="100px" height="100px" src="https://mohitkss.github.io/static/media/mongodb.4f7af09e6354d51beec8.png" alt="MongoDB"/>
-  <img width="100px" height="100px" src="https://mohitkss.github.io/static/media/react.22d1f2096ed82cab7a8a.png" alt="React"/>
-  <img width="100px" height="100px" src="https://mohitkss.github.io/static/media/redux.7fec6369cecd1cbd44d6.png" alt="Redux"/>
-  <img width="100px" height="100px" src="https://mohitkss.github.io/static/media/mern.b58d81727b47466a7cda.png" alt="MERN" width="48" height="48"/>
-  <img width="100px" height="100px" src="https://mohitkss.github.io/static/media/git.b1472a80b81e487179cf.png" alt="Git"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/html5.4e6edfe05f07c383e94f.png" alt="HTML5"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/css3.845e8eb63836bef093cf.png" alt="CSS3"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/nodejs.b508473ad71a31ce2fae.png" alt="NodeJS"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/mongodb.4f7af09e6354d51beec8.png" alt="MongoDB"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/react.22d1f2096ed82cab7a8a.png" alt="React"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/redux.7fec6369cecd1cbd44d6.png" alt="Redux"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/mern.b58d81727b47466a7cda.png" alt="MERN" width="48" height="48"/>
+  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/git.b1472a80b81e487179cf.png" alt="Git"/>
   
 </span>
 
