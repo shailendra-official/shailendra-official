@@ -44,10 +44,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p >
-<a  href="https://github.com/shailendra7518">
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shailendra7518&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shailendra7518&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">
+<a align="center" href="https://github.com/shailendra7518">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=shailendra7518&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shailendra7518&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=merko"/>
 </a>
 </p>
 
