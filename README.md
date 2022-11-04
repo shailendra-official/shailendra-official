@@ -35,12 +35,21 @@
   <img width="100px" height="100px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="React"/>
   
 </span>
-  
+# <h1></h1>
+
 # Projects
   <div> 
-
-
-
+   <div>
+   <h1>Agoda clone</h1>
+      <img  src="https://user-images.githubusercontent.com/87424668/161422371-3ab5850c-9173-4d29-a012-48bc3b9880e6.png" alt="HTML5"/>
+      <h4>
+        In this project we have tried to make a look alike clone of Agoda
+            Website. With our efforts and the technology stack, that we have
+            learned till now in Unit-5 in Masai School, we were able to clone
+            the front end, integrated it with backend and added similar looks
+            and features..</h4>
+    </div>
+   
    </div>
 
    ## Projects 
@@ -54,7 +63,6 @@
 2. CSS3
 3. Advanced JavaScript
 
-   ![49ed311d-48d0-473a-b350-ae0439c01d61](https://user-images.githubusercontent.com/67849097/146674910-ca9d9f02-b7bd-40dc-a0e6-89e9046ee47c.jpg)
   
    ## Marriott Bonvoy clone 🔗https://marriott-bonvoy-clone-github-io.vercel.app/
    ### It is hotel managment website i got this project uite-3 cunstruct week project .I work in this project with five other member
