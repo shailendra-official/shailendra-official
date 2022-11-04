@@ -45,11 +45,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a align="center" href="https://github.com/shailendra7518">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=shailendra7518&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shailendra7518&layout=compact&langs_count=8&theme=algolia"/>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=merko"/>
- <img src="https://activity-graph.herokuapp.com/graph?username=shailendra7518&theme=react-dark" />
+<a  href="https://github.com/shailendra7518">
+  <img   src="https://github-readme-stats-eight-theta.vercel.app/api?username=shailendra7518&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shailendra7518&layout=compact&langs_count=8&theme=algolia"/>
+  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=merko"/>
+ <img  src="https://activity-graph.herokuapp.com/graph?username=shailendra7518&theme=react-dark" />
 </a>
 </p>
 
