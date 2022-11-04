@@ -5,17 +5,19 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-- 👋 Hi, I’m Shailendra Kumar.I belong to Fatehpur, Uttar Pradesh.
-- 📖 I I graduated with the bachelor degree of art and also completed Full stack development course from Masai School.
-- 👀 I’m interested in Computers and Web Development.
-- 🌱 I’m currently working as an Instructional Associate At Masai School.
-- 🏫 I'm currently Teaching Data Structures and Algorithms through Javascript and React.js .
-- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
-- 📫 You can reach me shailendraftp0001@gmail.com or the mail in my Profile.
+  
+I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
+  
+- 💼 any freelance work? do reach, [email](mailto:shailendraftp0001@gmail.com) :)
+- 💬 ask me about anything, I would love to help ;)
+- 👨‍💻 Checkout my Portfolio [Portfolio](https://shailendra7518.github.io/portfolioshailendra/)
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
+  
+  if you like what i do, maybe consider buying me a coffee/tea
+
+<a href="https://www.buymeacoffee.com/kumarshailendra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,14 +46,27 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a  href="https://github.com/shailendra7518">
-  <img   src="https://github-readme-stats-eight-theta.vercel.app/api?username=shailendra7518&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shailendra7518&layout=compact&langs_count=8&theme=algolia"/>
-  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=merko"/>
- <img hight="180em"  src="https://activity-graph.herokuapp.com/graph?username=shailendra7518&theme=react-dark" />
-</a>
-</p>
+<br><br>
+<h2 align="center">📊 Leetcode Statistics<h2>
+<div align="center">
+<img width="100%" src="https://leetcard.jacoblin.cool/shailendraftp0001?ext=heatmap" />
+<br /><br />
+
+</div>
+<br /><br />
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shailendra7518&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra7518&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=shailendra7518&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
+
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -61,3 +76,5 @@
 <a href="shailendraftp0001@gmail.com"><img src="https://img.shields.io/badge/-shailendraftp0001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-@shailendra-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
