@@ -1,8 +1,11 @@
 
-# Hey!! Great to see you here! <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="50px" height="30px">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&width="100%"&section=header&text=Shailendra%20Kumar&fontSize=90)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Shailendra kumar</h2>
 
-```
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
 - 👋 Hi, I’m Shailendra Kumar.I belong to Fatehpur, Uttar Pradesh.
 - 📖 I I graduated with the bachelor degree of art and also completed Full stack development course from Masai School.
 - 👀 I’m interested in Computers and Web Development.
@@ -11,73 +14,48 @@
 - 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
 - 📫 You can reach me shailendraftp0001@gmail.com or the mail in my Profile.
 
-```
-# Tech Stack
-   <span>
-  <img width="100px" height="100px"  src="https://res.cloudinary.com/computer-know-how/images/f_auto,q_auto/v1586880081/JavaScript-logo/JavaScript-logo.png?_i=AA" alt="JavaScript"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/html5.4e6edfe05f07c383e94f.png" alt="HTML5"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/css3.845e8eb63836bef093cf.png" alt="CSS3"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/nodejs.b508473ad71a31ce2fae.png" alt="NodeJS"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/mongodb.4f7af09e6354d51beec8.png" alt="MongoDB"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/react.22d1f2096ed82cab7a8a.png" alt="React"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/redux.7fec6369cecd1cbd44d6.png" alt="Redux"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/mern.b58d81727b47466a7cda.png" alt="MERN" width="48" height="48"/>
-  <img width="80px" height="80px" src="https://mohitkss.github.io/static/media/git.b1472a80b81e487179cf.png" alt="Git"/>
-  
-</span>
 
-# Tools
-   <span>
-  <img width="100px" height="100px" marginLeft="50px" src="https://www.computerhope.com/jargon/w/windows.png" alt="HTML5"/>
-  <img width="100px" height="100px" src="https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j_400x400.png" alt="CSS3"/>
-  <img width="100px" height="100px"  src="https://static-00.iconduck.com/assets.00/vercel-icon-512x449-3422jidz.png" alt="NodeJS"/>
-  <img width="100px" height="100px" src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" alt="MongoDB"/>
-  <img width="100px" height="100px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="React"/>
-  
-</span>
-# <h1></h1>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-# Projects
-  <div> 
-   <div>
-   <h1>Agoda clone</h1>
-      <img  src="https://user-images.githubusercontent.com/87424668/161422371-3ab5850c-9173-4d29-a012-48bc3b9880e6.png" alt="HTML5"/>
-      <h4>
-        In this project we have tried to make a look alike clone of Agoda
-            Website. With our efforts and the technology stack, that we have
-            learned till now in Unit-5 in Masai School, we were able to clone
-            the front end, integrated it with backend and added similar looks
-            and features..</h4>
-    </div>
-   
-   </div>
+### 🛠 &nbsp;Tech Stack
 
-   ## Projects 
-                                          
-   ## Purpull.com clone 🔗https://purpullclone.netlify.app/
-   ### It is beauty related E-commerce website i got this project uite-2 cunstruc week project .I work in this project with five other member
-                       
-   ###  My responsibility in this project to make header and footer for all pages and adding sorting and filter featurs
-   ### Technology We Used :computer: 
-1. HTML5
-2. CSS3
-3. Advanced JavaScript
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 
-  
-   ## Marriott Bonvoy clone 🔗https://marriott-bonvoy-clone-github-io.vercel.app/
-   ### It is hotel managment website i got this project uite-3 cunstruct week project .I work in this project with five other member
-                       
-   ###  My responsibility in this project to make main hotel page and detail page of hotel ,room detail and price page and adding sorting and filter featurs
-     ### Technology We Used :computer: 
-1. HTML5
-2. CSS3
-3. Advanced JavaScript
-   ![49ed311d-48d0-473a-b350-ae0439c01d61](https://www.linkpicture.com/q/marriot_3.png)
-  
-                                         
-                                               
-## Reach me at:
-(shailendraftp0001@gmail.com)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Chakra_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-## Connect with me:
-(www.linkedin.com/in/shailendra-kumar-maurya)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/shailendra7518">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shailendra7518&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shailendra7518&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://shailendra7518.github.io/portfolioshailendra/"><img src="https://img.shields.io/badge/-Shailenra kumar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="www.linkedin.com/in/maurya-shailendra"><img src="https://img.shields.io/badge/-Shailendra%20kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="shailendraftp0001@gmail.com"><img src="https://img.shields.io/badge/-shailendraftp0001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-@shailendra-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
