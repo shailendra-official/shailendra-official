@@ -55,10 +55,10 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
 </div>
 <br /><br />
 <h2 align="center">📊 My Github Stats<h2>
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=radical" alt="shailendra kumar" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shailendra7518&" height="255px" width="47%"/>
-<div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shailendra7518&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&" alt="prakashPic" />
+</div>
   </br>
   
 <div>
