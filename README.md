@@ -56,13 +56,13 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
 <br /><br />
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shailendra7518&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&theme=radical" alt="shailendra kumar" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shailendra7518&" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra7518&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra7518&theme=radical&langs_count=8" alt="shailendra kumar" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=shailendra7518&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
