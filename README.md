@@ -10,7 +10,7 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
   
 - 💼 any freelance work? do reach, [email](mailto:shailendraftp0001@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
-- 👨‍💻 Checkout my Portfolio [Portfolio](https://shailendra7518.github.io/portfolioshailendra/)
+- 👨‍💻 Checkout my Portfolio [Portfolio](https://shailendra.onrender.com)
 
 
   <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
@@ -49,7 +49,7 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
 <br><br>
 <h2 align="center">📊 Leetcode Statistics<h2>
 <div align="center">
-<img width="100%" src="https://leetcard.jacoblin.cool/shailendraftp0001?ext=heatmap" />
+<img width="100%" src="https://leetcard.jacoblin.cool/shailendra-kumar?ext=heatmap" />
 <br /><br />
 
 </div>
@@ -57,7 +57,7 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
 <h2 align="center">📊 My Github Stats<h2>
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shailendra7518&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&" alt="prakashPic" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra7518&" alt="shailendraPic" />
 </div>
   </br>
   
@@ -71,8 +71,8 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://shailendra7518.github.io/portfolioshailendra/"><img src="https://img.shields.io/badge/-Shailenra kumar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/maurya-shailendra"><img src="https://img.shields.io/badge/-Shailendra%20kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://shailendra.onrender.com"><img src="https://img.shields.io/badge/-Shailenra kumar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="www.linkedin.com/in/web-shailendra"><img src="https://img.shields.io/badge/-Shailendra%20kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="shailendraftp0001@gmail.com"><img src="https://img.shields.io/badge/-shailendraftp0001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-@shailendra-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
