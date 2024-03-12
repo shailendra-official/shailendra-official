@@ -10,7 +10,7 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
   
 - 💼 any freelance work? do reach, [email](mailto:shailendraftp0001@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
-- 👨‍💻 Checkout my Portfolio [Portfolio](https://shailendra.onrender.com)
+- 👨‍💻 Checkout my Portfolio [Portfolio](https://www.makelearner.in)
 
 
   <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
